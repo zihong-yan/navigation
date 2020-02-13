@@ -34,6 +34,7 @@
  *
  * Author: TKruse
  *********************************************************************/
+//该类为机器人提供odometry信息。
 #include <base_local_planner/odometry_helper_ros.h>
 
 namespace base_local_planner {
